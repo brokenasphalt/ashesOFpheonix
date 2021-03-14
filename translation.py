@@ -29,7 +29,7 @@ class Translation( object ):
                   "check the supported extensions in welcome message !</code> "
     EXTENSIONS = ['.mkv', '.mp4', '.avi', '.webm']
     NO_SPAM_MSG = "⚠️ <b>Don't Spam Here</b>\n<code>Read the welcome message for better use of this bot !</code>"
-    CAPTION_TEXT = "@moviekeralam"
+    CAPTION_TEXT = "@CELLULOID_LINKS"
     TRIM_WAIT = "<b>Attention</b>⚠️\n<code>Please Wait some time for a sample video. Be patient</code> 🤪"
     THANKS_MESSAGE = "<b>Thanks for using me. Have a nice day !</b>"
     MAKE_A_COPY_TEXT = "📚 <b> Can i make a copy of the same ?</b>"
@@ -41,7 +41,6 @@ class Translation( object ):
 
     CUSTOM_CAPTION_DOC = "📎<a href='https://t.me/CELLULOID_LINKS'>@CELLULOID_LINKS</a>📎\n" \
                          "🔰<a href='https://t.me/THE_CELLULOID'>@THE_CELLULOID</a>🔰"
-                       
     CUSTOM_CAPTION_VIDEO = "💢<a href='https://t.me/CELLULOID_LINKS'>@CELLULOID_LINKS</a>💢\n" \
                            "💢<a href='https://t.me/THE_CELLULOID'>@THE_CELLULOID</a>💢"
                          
