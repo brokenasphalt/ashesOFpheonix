@@ -40,11 +40,11 @@ class Translation( object ):
     PROCESS_START = "Processing Youtube Url 🔎 🔎 🔎"
 
     CUSTOM_CAPTION_DOC = "📎<a href='https://t.me/CELLULOID_LINKS'>@CELLULOID_LINKS</a>📎\n" \
-                         "🔰<a href='https://t.me/THE_CELLULOID'>@THE_CELLULOID</a>\n🔰"
-                         "🔰<a href='https://t.me/MALAYALM_MOVIES_TG'>@MALAYALM_MOVIES_TG</a>🔰"
+                         "🔰<a href='https://t.me/THE_CELLULOID'>@THE_CELLULOID</a>🔰"
+                       
     CUSTOM_CAPTION_VIDEO = "💢<a href='https://t.me/CELLULOID_LINKS'>@CELLULOID_LINKS</a>💢\n" \
-                           "💢<a href='https://t.me/THE_CELLULOID'>@THE_CELLULOID</a>\n💢"
-                           "🔰<a href='https://t.me/MALAYALM_MOVIES_TG'>@MALAYALM_MOVIES_TG</a>🔰"
+                           "💢<a href='https://t.me/THE_CELLULOID'>@THE_CELLULOID</a>💢"
+                         
     URL_ERROR = "<b>⚠️ Attention :</b>\nYour URL having some HTTP Errors ! Try with different URL..."
 
     SUCCESSFUL_SEND = "<code>Forwarded Successfully to:</code>\n<b>{}</b>"
