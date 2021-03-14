@@ -10,7 +10,7 @@ class Translation( object ):
     SAVED_RECVD_DOC_FILE = "<b>✔️ Media Downloaded Successfully</b>"
     ACCESS_DENIED_TEXT = "You are not authorized to use this Bot."
     START_TEXT = "Hello.. <b>{}</b>\n\n<b>Myself:</b> {}\n\n<b>I can do a lot of things in your Chats</b> 😀\n\n" \
-                 "<b>My Author is: </b><a href='https://t.me/space4renjith'>                HERE</a>\n" \
+                 "<b>My Author is: </b><a href='https://t.me/stream_zone'>                HERE</a>\n" \
                  "<b>My code can be seen: </b><a href='https://github.com/m4mallu/ashesOFpheonix'> HERE</a>\n" \
                  "<b>You can see my help: </b><a href='https://telegra.ph/How-to-use-the-Bot-02-20'>  HERE</a>\n\n" \
                  "<i> Have a nice day</i> 😍"
