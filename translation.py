@@ -33,16 +33,18 @@ class Translation( object ):
     TRIM_WAIT = "<b>Attention</b>⚠️\n<code>Please Wait some time for a sample video. Be patient</code> 🤪"
     THANKS_MESSAGE = "<b>Thanks for using me. Have a nice day !</b>"
     MAKE_A_COPY_TEXT = "📚 <b> Can i make a copy of the same ?</b>"
-    FINISHED_PROGRESS_STR = "◼️"
-    UN_FINISHED_PROGRESS_STR = "◻️"
+    FINISHED_PROGRESS_STR = "🔴"
+    UN_FINISHED_PROGRESS_STR = "⭕️"
     FAILED_LINK = "<b>Failed To Fetch Youtube Data...</b>\n<code>Please try again after some time.If " \
                   "problem persists, May be your server IP got blocked by the YouTube </code>😔 "
     PROCESS_START = "Processing Youtube Url 🔎 🔎 🔎"
 
-    CUSTOM_CAPTION_DOC = "💢<a href='https://t.me/Moviekeralam'>@MovieKeralam</a>💢\n" \
-                         "💢<a href='https://t.me/MoviekeralamLinks'>@MovieKeralamLinks</a>💢"
-    CUSTOM_CAPTION_VIDEO = "💢<a href='https://t.me/Moviekeralam'>@MovieKeralam</a>💢\n" \
-                           "💢<a href='https://t.me/MoviekeralamLinks'>@MovieKeralamLinks</a>💢"
+    CUSTOM_CAPTION_DOC = "📎<a href='https://t.me/CELLULOID_LINKS'>@CELLULOID_LINKS</a>📎\n" \
+                         "🔰<a href='https://t.me/THE_CELLULOID'>@THE_CELLULOID</a>\n🔰"
+                         "🔰<a href='https://t.me/MALAYALM_MOVIES_TG'>@MALAYALM_MOVIES_TG</a>🔰"
+    CUSTOM_CAPTION_VIDEO = "💢<a href='https://t.me/CELLULOID_LINKS'>@CELLULOID_LINKS</a>💢\n" \
+                           "💢<a href='https://t.me/THE_CELLULOID'>@THE_CELLULOID</a>\n💢"
+                           "🔰<a href='https://t.me/MALAYALM_MOVIES_TG'>@MALAYALM_MOVIES_TG</a>🔰"
     URL_ERROR = "<b>⚠️ Attention :</b>\nYour URL having some HTTP Errors ! Try with different URL..."
 
     SUCCESSFUL_SEND = "<code>Forwarded Successfully to:</code>\n<b>{}</b>"
